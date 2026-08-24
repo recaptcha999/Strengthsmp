@@ -1,0 +1,2 @@
+# Strengthsmp
+Strengthsmp only
